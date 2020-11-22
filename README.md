@@ -44,7 +44,7 @@ int main() {
  char str[100];
  char items[9][100]={"Apple","Motorola","HP","Google"};
  gets(str);
- printf("Hello %s, Welcome to our Z-Kart Online Shopping.\n",str);
+ printf("\n***Hello %s, Welcome to our Z-Kart Online Shopping***\n",str);
  do{
   //C is 1 by default
   if(c==1){
