@@ -12,60 +12,117 @@ STEP:2- Run the code
 OUTPUT:
 
 ***WELCOME TO Z-KART***
+
 Enter your mailid:
+
 abc@zoho.com
+
 Enter your password:
+
 ApipNbjm
+
 Name: RAHUL
+
 Mobile: 9922992299
+
 Hello , Welcome to our Z-Kart Online Shopping.
+
 Enter
+
 1 - Mobile
+
 2 - Laptop
+
 3 - Tablet
+
 Any other number to exit
+
 1
+
 Enter
+
 1 - Apple6s - Rs.60000
+
 2 - MotorolaG- Rs.12000
+
 Any other number to exit
+
 1
+
 You chose Apple6s with Rs.60000.Are you sure to buy.If 'Yes' Enter 1 else any number
+
 1
+
 Your Cost in Cart is 60000
+
 's cart
+
 Id	Items		Quantity	Cost
+
 0	Apple		1			60000
+
 Total Cost					60000
+
 If you wish to buy anything more Enter
+
 1 to Add Item
+
 2 to Delete Items
+
 3 to Change Quantity 
+
 Any other number to Exit
+
 1
+
 Enter
+
 1 - Mobile
+
 2 - Laptop
+
 3 - Tablet
+
 Any other number to exit
+
 1
+
 Enter
+
 1 - Apple6s - Rs.60000
+
 2 - MotorolaG- Rs.12000
+
 Any other number to exit
+
 1
+
 You chose Apple6s with Rs.60000.Are you sure to buy.If 'Yes' Enter 1 else any number
+
 1
+
 Your Cost in Cart is 120000
+
 's cart
+
 Id	Items		Quantity	Cost
+
 0	Apple		2			120000
+
 Total Cost					120000
+
 If you wish to buy anything more Enter
+
 1 to Add Item
+
 2 to Delete Items
+
 3 to Change Quantity 
+
 Any other number to Exit
+
 6
+
 Your Final Cost is 120000
+
 Thanks  for Choosing Us and Visit us again.
